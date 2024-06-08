@@ -16,6 +16,8 @@ public class Proyecto {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        // hola
+        
         File archivo; // MANIPULACION AL ARCHIVO
         FileWriter escribir; //ESCRIBIR ARCHIVO
         PrintWriter linea ; // ESCRIBIR EN EL ARCHIVO
